@@ -5,7 +5,7 @@ Proyecto hecho con React y Vite para mostrar una tarjeta de presentación person
 ## Vista previa
 
 <!-- Agrega aquí la imagen de tu proyecto -->
-![Vista del proyecto](./public/vista-previa.png)
+![Vista del proyecto](./public/tarjetaview.png)
 
 ## Tecnologías
 
